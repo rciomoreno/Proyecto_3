@@ -65,7 +65,12 @@ Esta tabla venía bastante limpia, por lo que solo tuve que cambiar todos los no
 <img width="962" alt="Relaciones entre tablas" src="https://user-images.githubusercontent.com/115650089/201778928-1215cda8-3f93-4c1b-b1e4-3d917a977c9e.png">
 
    En este caso y debido a la escasez de tiempo de limpieza, dado que este proyecto se focalizó en la correcta extracción de datos, solamente pude crear la    relación entre el ranking de España y Andalucía mediante la creación de una cuarta tabla en la que estarían disponibles los IDs de ambas.
-   
-   
-   
-   
+
+PRÓXIMOS PASOS A SEGUIR  🎓
+
+- Hacer hincapié en la limpieza de las 3 tablas (sobre todo de nombres y empresas)
+
+- Buscar los nombres de los CEO de las empresas de Andalucía para que todas las tablas lo tengan en común.
+
+- Tras su correcta limpieza, crear una base de datos relacional entre las 3 tablas y hacer varias queries sobre ellas que nos proporcionen información.
+
