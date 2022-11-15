@@ -68,7 +68,7 @@ Esta tabla venía bastante limpia, por lo que solo tuve que cambiar todos los no
 
 PRÓXIMOS PASOS A SEGUIR  🎓
 
-- Hacer hincapié en la limpieza de las 3 tablas (sobre todo de nombres y empresas)
+- Hacer hincapié en la limpieza de las 3 tablas (sobre todo de nombres y empresas).
 
 - Buscar los nombres de los CEO de las empresas de Andalucía para que todas las tablas lo tengan en común.
 
