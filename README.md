@@ -2,7 +2,7 @@
 
 OBJETIVO 🎯
 
-El objetivo de este proyecto era crear una base de datos con información extraída utilizando dos métodos aprendidos en clase de tres fuentes de información diferentes.
+El objetivo de este proyecto es crear una base de datos con información extraída utilizando dos métodos aprendidos en clase de tres fuentes de información diferentes.
 
 IDEA 💡
 
